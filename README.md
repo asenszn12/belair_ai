@@ -5,4 +5,4 @@ Features include daily usage limits, mood check-ins, and a detailed dashboard wi
 
 This project aims to blend behavioural science with AI to create smarter digital habits and healthier online usage.
 
-<img width="1080" height="552" alt="_- visual selection" src="https://github.com/user-attachments/assets/716450f4-f3f5-42e0-94ca-daab52da4d01" />
+<img width="1080" height="552" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/0bd55b93-2a79-4936-8594-a76118fbace9" />
