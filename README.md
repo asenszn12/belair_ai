@@ -1,5 +1,5 @@
 # 🔮 Belair 
-Belair - AI-Powered Productivity Chrome Extension
+Belair - AI-focused Productivity Dashboard for getting things done
 
 Features include daily usage limits, mood check-ins, and a detailed dashboard with insightful analytics on time spent and productivity costs. Built with Next.js, Convex, Clerk, Vercel, Shadcn UI, Tailwind CSS, and integrated with Hugging Face's AI API for smart unlocking and personalised insights.
 
