@@ -1,1 +1,3 @@
-alert("WE GONNA BE SO GOATED");
+if (window.location.hostname.includes("youtube.com")) {
+    alert("Youtube is now BLOCKED");
+}
