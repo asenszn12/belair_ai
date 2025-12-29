@@ -1,7 +1,3 @@
-// if (window.location.hostname.includes("youtube.com")) {
-//     alert("Youtube is now BLOCKED by Belair AI");
-// } 
-
 const generateStyle = () => {
     return `<style>@import url(https://fonts.googleapis.com/css?family=opensans:500);
   body {
