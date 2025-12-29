@@ -258,5 +258,10 @@ switch (window.location.hostname) {
         document.body.innerHTML = generateHTML("YOUTUBE"); 
         break;
 
+    case "www.instagram.com":
+      document.head.innerHTML = generateStyle(); 
+      document.body.innerHTML = generateHTML("INSTAGRAM"); 
+      break;
+
 }
         
